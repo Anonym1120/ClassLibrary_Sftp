@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_Sftp_RenciSshNet", "ClassLibrary_Sftp_RenciSshNet\ClassLibrary_Sftp_RenciSshNet.csproj", "{77F877D0-8570-4D63-9619-75A9A1777192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F877D0-8570-4D63-9619-75A9A1777192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F877D0-8570-4D63-9619-75A9A1777192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F877D0-8570-4D63-9619-75A9A1777192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F877D0-8570-4D63-9619-75A9A1777192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9290EEF7-6081-4C0F-A8AD-6F5E586569CE}
+	EndGlobalSection
+EndGlobal
